@@ -1,0 +1,7 @@
+udo apt-get install libmysqlclient-dev
+$ sudo apt-get install zlib1g-dev
+$ sudo pip3 install mysqlclient
+...
+$ python3
+>>> import MySQLdb
+>>> MySQLdb.version_info 
